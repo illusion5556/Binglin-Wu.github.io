@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Binglin Wu (吴秉霖)"
-description              : "Focusing on the auto-bidding and LLM."
+description              : "Focusing on auto-bidding algorithms and the application of LLM."
 repository               : "Binglin-Wu/Binglin-Wu.github.io"
 google_scholar_stats_use_cdn : true
 
