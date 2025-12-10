@@ -17,41 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>。
+Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at Dalian University of Technology. My research focuses on auto-bidding algorithms for online adverstising and the application of LLM, and I am supervised by Prof. Xianneng Li. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 Our paper was accepted by CCL 25 Compitition Track, with the co-first author Binglin Wu and Jiaxiu Zou.
+- *2025.05*: &nbsp;🎉🎉 Our BMI@DLUT win the 🥉third price at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation, with Jiaxiu Zou, and supervised by Prof. Xianneng Li [[link]](https://tianchi.aliyun.com/competition/entrance/532298)
+- *2025.03*: &nbsp;🎉🎉 Our paper was accepted by WWW 25 Compitition Track, with the co-first author Zhipeng Li, Binglin Wu and Yingyi Zhang.
+- *2025.01*: &nbsp;🎉🎉 Our scale@DLUT win the 🥉bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge, with Zhipeng Li and Yingyi Zhang, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532277)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [Li, Zhipeng, Binglin Wu, Yingyi Zhang, Xianneng Li, Kai Li, and Weizhi Chen. "CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge." In Companion Proceedings of the ACM on Web Conference 2025, pp. 3058-3062. 2025.](https://github.com) (WWW 2025, CCF-A List)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
+- *2025.05* 🥉Third price at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation
 - *2025.01* 🥉Bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📖 Educations
-- *2024.09 - 2027.06 (now)*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/DUT-logo.svg" width="20pt"></a> Master of Management Science and Engineering, Dalian University of Technology. 
-- *2020.09 - 2024.06*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/DUT-logo.svg" width="20pt"></a> Bachelor of Information Management and Information Systems, Dalian University of Technology. 
+- *2024.09 - 2027.06 (now)*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/DUT-logo.svg" width="20pt"></a> Master of Management Science and Engineering, Dalian University of Technology, Dalian. 
+- *2020.09 - 2024.06*, <a href="https://www.dlut.edu.cn/"><img class="svg" src="/images/DUT-logo.svg" width="20pt"></a> Bachelor of Information Management and Information Systems, Dalian University of Technology, Dalian. 
+- *2017.09 - 2020.07*, Zhuanghe Senior High School, Dalian. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2025.09 - 2026.02*, [Alibaba Group](https://github.com/), China.
+- *2025.09 - 2026.02*, [Alibaba Group](https://alibaba.com/)<img class="svg" src="/images/alibab.svg" width="20pt">, Hangzhou.
+- *2022.10 - 2023.08*, [Dalian Municipal People's Procuratorate](http://www.dalian.jcy.gov.cn/), Dalian.
