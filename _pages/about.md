@@ -44,5 +44,5 @@ Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at 
 
 
 # 💻 Internships
-- *2025.09 - 2026.02*, [Alibaba Group](https://alibaba.com/) <a><img class="svg" src="/images/alibaba.svg" width="20pt"></a>, Hangzhou.
+- *2025.09 - 2026.02*, [Alibaba Group](https://alibaba.com/) <a><img class="svg" src="/images/Alibaba.svg" width="20pt"></a>, Hangzhou.
 - *2022.10 - 2023.08*, [Dalian Municipal People's Procuratorate](http://www.dalian.jcy.gov.cn/), Dalian.
