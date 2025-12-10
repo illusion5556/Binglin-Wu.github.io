@@ -27,7 +27,7 @@ Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at 
 
 # 📝 Publications 
 
-- [Li, Zhipeng, Binglin Wu, Yingyi Zhang, Xianneng Li, Kai Li, and Weizhi Chen. "CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge." In Companion Proceedings of the ACM on Web Conference 2025, pp. 3058-3062. 2025.](https://github.com) (WWW 2025, CCF-A List)
+- [Li, Zhipeng, Binglin Wu, Yingyi Zhang, Xianneng Li, Kai Li, and Weizhi Chen. "CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge." In Companion Proceedings of the ACM on Web Conference 2025, pp. 3058-3062. 2025.](https://dl.acm.org/doi/abs/10.1145/3701716.3718373) (WWW 2025, CCF-A List)
 
 
 # 🎖 Honors and Awards
