@@ -21,19 +21,20 @@ Hi! Welcome to my homepage. I’m Binglin Wu (吴秉霖), a Master's student at 
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our paper was accepted by CCL 25 Compitition Track, with the co-first author Binglin Wu and Jiaxiu Zou.
-- *2025.05*: &nbsp;🎉🎉 Our BMI@DLUT win the 🥉third price at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation, with Jiaxiu Zou, and supervised by Prof. Xianneng Li [[link]](https://tianchi.aliyun.com/competition/entrance/532298)
+- *2025.05*: &nbsp;🎉🎉 Our BMI@DLUT win the third prize at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation, with Jiaxiu Zou, and supervised by Prof. Xianneng Li [[link]](https://tianchi.aliyun.com/competition/entrance/532298)
 - *2025.03*: &nbsp;🎉🎉 Our paper was accepted by WWW 25 Compitition Track, with the co-first author Zhipeng Li, Binglin Wu and Yingyi Zhang.
-- *2025.01*: &nbsp;🎉🎉 Our scale@DLUT win the 🥉bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge, with Zhipeng Li and Yingyi Zhang, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532277)
+- *2025.01*: &nbsp;🎉🎉 Our scale@DLUT win the bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge, with Zhipeng Li and Yingyi Zhang, and supervised by Prof. Xianneng Li [[Link]](https://tianchi.aliyun.com/competition/entrance/532277)
 
 # 📝 Publications 
 
 - [Li, Zhipeng, Binglin Wu, Yingyi Zhang, Xianneng Li, Kai Li, and Weizhi Chen. "CuSMer: Multimodal Intent Recognition in Customer Service via Data Augment and LLM Merge." In Companion Proceedings of the ACM on Web Conference 2025, pp. 3058-3062. 2025.](https://github.com) (WWW 2025, CCF-A List)
 
 
-
 # 🎖 Honors and Awards
-- *2025.05* 🥉Third price at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation
-- *2025.01* 🥉Bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge
+- *2025.05* Third prize at CCL-Eval Task 10: Fine-grained Chinese Hate Recognition Evaluation
+- *2025.01* Bronze medal at WWW compitition: Multimodal Dialogue System Intent Recognition Challenge
+- *2023.08* Third Prize in the National Procuratorial Organs Big Data Legal Supervision Model Competition
+- *2022.09* Dalian University of Technology's Outstanding Students
 
 
 # 📖 Educations
